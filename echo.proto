@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package echo;
 
-option go_package = "github.com/kemokemo/my-grpc-sample;my_grpc_sample";
+option go_package = "github.com/kemokemo/my-grpc-go-sample;my_grpc_go_sample";
 
 message EchoRequest {
     string message = 1;

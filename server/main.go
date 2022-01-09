@@ -8,7 +8,7 @@ import (
 	"net"
 	"os"
 
-	pb "github.com/kemokemo/my-grpc-sample"
+	pb "github.com/kemokemo/my-grpc-go-sample"
 	"google.golang.org/grpc"
 )
 
